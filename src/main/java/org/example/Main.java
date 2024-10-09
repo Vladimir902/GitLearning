@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println("Agabaa");
         String changes = "I want to do some changes";
-        System.out.println("I wan to do changee");
+        System.out.println("I wan to do change");
     }
 }
